@@ -1,4 +1,0 @@
-Google
-======
-
-For Google APIs
